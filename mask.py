@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 import random as rnd
 
-model = load_model("/Users/qsami/Desktop/mobilenet6.h5")
+model = load_model("mobilenet.h5")
 cap = cv2.VideoCapture(0)
 frame = None
 
