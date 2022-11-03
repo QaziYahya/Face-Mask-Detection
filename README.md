@@ -6,4 +6,4 @@ Used transfer learning and trained the last layer of the MobileNet model to get 
 
 <h2>Testing</h2>
   
-To install all the required libraries type the the following command into the terminal and hit enter: "pip install -r /path/to/requirements.txt". After all the libraries are installed type the following command into the terminal and hit enter to run the "mask.py" file: "python3 /path/to/mask.py".
+To install all the required libraries type the the following command into the terminal and hit enter: "pip install -r /path/to/requirements.txt". After all the libraries are installed type the following command into the terminal and hit enter to run the "mask_detection.py" file: "python3 /path/to/mask_detection.py".
